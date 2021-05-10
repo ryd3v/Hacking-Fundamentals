@@ -1,11 +1,11 @@
-Books - Network+ Study Guide
-WiFi Security Basics
 Access Control
 Application Security
-Firewalls
-Virtual Private Networks(VPN)
 Behavioral Analytics
-Wireless Security
+Books - Network+ Study Guide
+Firewalls
 Intrusion Prevention System
 Microsoft Fundamentals of Network Security
 Network Monitoring
+Virtual Private Networks(VPN)
+WiFi Security Basics
+Wireless Security

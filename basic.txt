@@ -1,48 +1,29 @@
 Books - Foundations of Information Security
-Books - Penetration Testing
 Books - Linux Basics for Hackers
+Books - Penetration Testing
 Books - The Linux Command Line
-OWASP Top 10 | Injection
-OWASP Top 10 | Broken Authentication
-OWASP Top 10 | Sensitive Data Exposure
-OWASP Top 10 | XML External Entities
-OWASP Top 10 | Broken Access Control
-OWASP Top 10 | Security Misconfiguration
-OWASP Top 10 | Cross-Site Scripting
-OWASP Top 10 | Insecure Deserialization
-OWASP Top 10 | Using Components with Known Vulnerabilities
-OWASP Top 10 | Insufficient Logging & Monitoring
+Container Basics
+DevOps Basics
+Enterprise Networks
 Linux Basics
 Linux Basics | Cron Basics
+Linux Basics | Fingerprinting Webapp (CLI)
+Linux Basics | Interaction: FTP Service
+Linux Basics | Interaction: SSH Service
+Linux Basics | Interaction: Socat Listener
+Linux Basics | Lesser-Known Hacks
+Linux Basics | Resource Monitoring
 Linux Basics | Scheduling: Cron Practice
 Linux Basics | Switching users
 Linux Basics | Text File Analysis
-Linux Basics | Interaction: FTP Service
-Linux Basics | Interaction: Socat Listener
-Linux Basics | Interaction: SSH Service
-Linux Basics | Tool: Socat
 Linux Basics | Tool: Netcat
-Linux Basics | Fingerprinting Webapp (CLI)
-Linux Basics | Resource Monitoring
-Linux Basics | Lesser-Known Hacks
-Reconnaissance
-Web Application Basics
-Container Basics
-DevOps Basics
-WiFi security | Traffic Analysis
-WiFi security | Recon
-WiFi security | AP Client Basics
-WiFi security | OpenWRT Router
-WiFi security | Tools
-Personal Networks
-Enterprise Networks
-Network Recon
-Traffic Analysis
+Linux Basics | Tool: Socat
 Network Pentesting | DNS
 Network Pentesting | Git
 Network Pentesting | Recon
 Network Pentesting | Subversion
 Network Pivoting | Single Pivots
+Network Recon
 Network Recon | Distributed Databases
 Network Recon | Distributed Queues
 Network Recon | Finger Servers
@@ -63,3 +44,22 @@ Network Recon | TFTP Servers
 Network Recon | Telnet Servers
 Network Recon | VNC
 Network Recon | Webservers
+OWASP Top 10 | Broken Access Control
+OWASP Top 10 | Broken Authentication
+OWASP Top 10 | Cross-Site Scripting
+OWASP Top 10 | Injection
+OWASP Top 10 | Insecure Deserialization
+OWASP Top 10 | Insufficient Logging & Monitoring
+OWASP Top 10 | Security Misconfiguration
+OWASP Top 10 | Sensitive Data Exposure
+OWASP Top 10 | Using Components with Known Vulnerabilities
+OWASP Top 10 | XML External Entities
+Personal Networks
+Reconnaissance
+Traffic Analysis
+Web Application Basics
+WiFi security | AP Client Basics
+WiFi security | OpenWRT Router
+WiFi security | Recon
+WiFi security | Tools
+WiFi security | Traffic Analysis

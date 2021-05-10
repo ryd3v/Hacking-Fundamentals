@@ -1,13 +1,13 @@
-Books - Applied Cryptography
-Books - Serious Cryptography
-Books - Cryptography Engineering
-Encryption
 Authentication
-Integrity
-Non Repudiation
-Hash Functions
+Books - Applied Cryptography
+Books - Cryptography Engineering
+Books - Serious Cryptography
+Certificates
+Ciphers
 Classical Cryptosystems
 DES and AES
-Ciphers
+Encryption
+Hash Functions
+Integrity
+Non Repudiation
 Public-Key Cryptography
-Certificates

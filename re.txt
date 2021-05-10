@@ -1,13 +1,13 @@
 Books - Malware Analysts Cookbook
+Books - Malware Data Science
+Books - Modern X86 Assembly Language
+Books - Practical Binary Analysis
+Books - Practical Malware Analysis
 Books - Practical Reverse Engineering
 Books - Secrets of Reverse Engineering
 Books - The IDA Pro Book 2nd Edition
-Books - Practical Binary Analysis
-Books - Practical Malware Analysis
-Malware Analysis
+Malware Analysis Basics
 Malware Analysis | Simple Samples
 Reverse Engineering | Linux | GDB Basics
 Reverse Engineering | Linux | Static Binary Analysis
 Reverse Engineering | Windows | Basics
-Books - Modern X86 Assembly Language
-Books - Malware Data Science
