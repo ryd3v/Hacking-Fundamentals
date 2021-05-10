@@ -21,7 +21,7 @@ def countdown(mins, secs=0):
 
 print("Let's Study!"),
 print("The topics are:\n"),
-study_topics = ["Cryptography[1]", "Basic Knowledge[2]", "Reverse Engineering[3]", "Network Security[4]", "Program Exploitation[5]", "Forensics[6]"]
+study_topics = ["Cryptography[1]", "Basic Knowledge[2]", "Reverse Engineering[3]", "Network Security[4]", "Exploitation[5]", "Forensics[6]"]
 
 for topic in study_topics:
     print(topic)
