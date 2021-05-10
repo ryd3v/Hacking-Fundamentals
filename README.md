@@ -16,7 +16,7 @@
 >
 >Forensics
 
-Each list contains some content taken from,
+Each list contains content taken from,
 
 https://www.pentesteracademy.com/
 
