@@ -15,3 +15,9 @@
 >Exploitation
 >
 >Forensics
+
+Each list contains some content taken from,
+
+https://www.pentesteracademy.com/
+
+At a later date, I will add links to resources as an alternative for those who don't have a subscription.
