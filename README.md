@@ -14,7 +14,7 @@
 >
 >Exploitation
 >
->Forensics
+>DFIR
 
 ## Learning hacking? 
 
