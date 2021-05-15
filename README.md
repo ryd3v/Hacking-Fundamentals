@@ -18,7 +18,7 @@
 
 ## Learning hacking? 
 
-It can seem daunting at first right, where do I start? what topics?, books? resources?
+Hacking, It can seem daunting at first right?, Where do I start? what topics?, books? resources?
 
 I created this script to randomly pic a subject based on your selected topic. 
 
