@@ -33,3 +33,38 @@ Volatility: Basics II
 Volatility: Binary I
 Volatility: Binary II
 WiFi Security | Forensics | Basics
+Mobile Forensics
+Policies and Procedures
+JTAG, ISP, Chip-Off
+Surveillance
+Incident Response
+Threat Intelligence
+Drones
+Vehicle Forensics
+OSINT
+Counter Forensics
+Data Recovery
+Darknet
+Virtual Currencies
+Password Encryption
+Cracking
+Lateral Movement Analyst
+Memory Analysis with Volatility
+Python Analyst
+Default Windows Processes
+WMIC Quick Reference
+PowerShell Quick Reference
+PowerShell for Incident Response
+BYOD policies
+Malware Triage
+Log Analysis
+Network Forensics
+Intelligence Analysis
+Memory Forensics
+File System Forensics
+Books - The Practice of Network Security Monitoring
+IR - Preparation
+IR - Detection and Reporting
+IR - Triage and Analysis
+IR - Containment and Neutralization
+IR - Post Incident Activity

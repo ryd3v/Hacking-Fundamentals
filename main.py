@@ -1,15 +1,13 @@
-# Program: Study app for Windows
+# Program: Study app for Linux
 # Author: Ryan
-# Original creation date: 2021-05-10
-# Version: 1
+# Original creation date: 2021-05-14
+# Version: 2
 # Updated:
-# pip install win10toast
-# Use main.py for GNU/Linux
 #!/usr/bin/env python3
 import random
 import time
 import subprocess as s
-from win10toast import ToastNotifier
+
 
 def countdown(mins, secs=0):
     t = (mins*60) + secs
@@ -63,7 +61,7 @@ elif question == "6":
     Forensics = []
     with open("forensics.txt", "r") as f:
         Forensics = f.readlines()
-        print("How about?:", random.choice(Forensics)),
+        print("How about?:", random.choice(Forensics)),       
 
 else:
     print("Topic entered not in the list!")
@@ -73,7 +71,4 @@ else:
 input("Press Enter to Start timer")
 countdown(30),
 
-toaster = ToastNotifier()
-toaster.show_toast("Finished!", "Well done, have a Great Day!",
-threaded=True,
-icon_path=None, duration=4)  # 4 seconds
+s.call(['notify-send','Well done!, Have a Great Day!']),print('\a')
